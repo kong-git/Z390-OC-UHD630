@@ -797,17 +797,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02934200J9KGQG1M</string>
+			<string></string>
 			<key>ROM</key>
-			<data>A4gI48H1</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z80SEJWDW</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>20069900-8FCE-5224-B52A-0B6F97E3C1F5</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
