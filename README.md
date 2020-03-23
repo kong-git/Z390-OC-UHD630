@@ -1,4 +1,4 @@
-# 技嘉Z390-UD Hackintosh
+# 技嘉Z390-UD集显版 Hackintosh
 
 > 技嘉Z390-UD台式机的配置（OC配置）已收集完毕
 
