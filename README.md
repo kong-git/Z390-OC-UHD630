@@ -15,5 +15,5 @@
 |   显卡   |         Intel UHD Graphics 630（HDMI转DVI连显示器）          |
 |  显示器  |        2060W3显示器（分辨率1920*1080 DVI与主板连接）         |
 |   声卡   |               ALC887（配合AppleALC注入1驱动）                |
-|   网卡   | 建议更换为 [DW1820A](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) |
+|   网卡   |               BCM943602CS                                 |
 
